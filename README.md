@@ -1,14 +1,10 @@
 # odin-recipes
 
-Html Project Recipes
-I have learnt basics of html:
+Its a basic Html project for beginners.
+Foolowing elements/tags are used in building 3 pages:
 images
 links
-pages
 headings
-body
 paragraph
 
-Now I'm going to complete a small task called Project: Recipes
-
-Best of luck to me!
+Happy Learning!
